@@ -1,6 +1,6 @@
 ## Python Basic
-* [Varibale]()
-* [Assignment Statement]()
+* [Varibale](https://github.com/Tabel0112/CCC_Senior/tree/main/pythonbasic/variable)
+* [Assignment Statement](https://github.com/Tabel0112/CCC_Senior/tree/main/pythonbasic/assignment)
 * [Math Operations]()
 * [Module (import math)]()
 * [Functions]()
