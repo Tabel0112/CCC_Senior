@@ -1,0 +1,13 @@
+## Python Basic
+* [Varibale]()
+* [Assignment Statement]()
+* [Math Operations]()
+* [Module (import math)]()
+* [Functions]()
+* [Conditional Statement]()
+* [Strings]()
+* [Input and Output]()
+* [List]()
+* [Iteration]()
+* [Dictionary]()
+* [Class]()
